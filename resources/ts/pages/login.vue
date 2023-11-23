@@ -1,4 +1,4 @@
-<script setup lang="ts">
+  <script setup lang="ts">
 import { VForm } from 'vuetify/components/VForm'
 import { useGenerateImageVariant } from '@/@core/composable/useGenerateImageVariant'
 import type { LoginResponse } from '@/@fake-db/types'

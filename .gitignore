@@ -51,3 +51,5 @@ dist-ssr
 
 # iconify dist files
 resources/ts/@iconify/*.js
+rr
+.rr.yaml
